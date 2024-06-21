@@ -86,12 +86,6 @@ choice.forEach(function(pil) {
 //     info.innerHTML = hasil;
 // });
 
-
-
-
-
-
-
 // let ul = document.querySelector('.area-player ul');
 // let element = {
 //     gajah: ul.querySelector('.gajah'),
@@ -107,6 +101,10 @@ choice.forEach(function(pil) {
 //     semut = 'semut';
 //     console.log(semut)
 // });
+
+
+
+
 
 // var tanya = true;
 // while( tanya ) {

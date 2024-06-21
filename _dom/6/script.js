@@ -5,7 +5,7 @@
 // document.createTextNode()
 // node.appendChild
 // node.insertBefore
-// parentNode.remomeChild()
+// parentNode.removeChild()
 // parentNode.replaceChild()
 
 
@@ -32,7 +32,7 @@ let li2 = ul.querySelector('li:nth-child(2)');
 ul.insertBefore(liBaru, li2);
 
 
-// parentNode.remomeChild()
+// parentNode.removeChild()
 let sectionA2 = document.getElementById('a');
 let link = sectionA2.querySelector('a');
 sectionA2.removeChild(link);
