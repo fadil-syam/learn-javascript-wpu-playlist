@@ -29,4 +29,5 @@ pDurasi.textContent = `${jam} jam, ${menit} menit, ${detik} detik.`;
 const jumlahVideo = videos.filter(video => video.textContent.includes('JAVASCRIPT LANJUTAN')).length;
 const pJmlhVideo = document.querySelector('.jumlah-video');
 pJmlhVideo.textContent = `${jumlahVideo} video.`;
+
 console.log(jsLanjut);
